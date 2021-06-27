@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project with [Typescript](https://www.typescriptlang.org/) and [Tailwindcss](https://tailwindcss.com/) pre-configured.
+# This is a pre-configured [Next.js](https://nextjs.org/), [Typescript](https://www.typescriptlang.org/) and [Tailwindcss](https://tailwindcss.com/) project.
 
 ## Getting Started
 
